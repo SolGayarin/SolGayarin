@@ -13,13 +13,13 @@
 </svg>
 
 
-<h1 align="center">Hola, soy Sol Gayarin!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">Estudiante apasionada de TI | Explorando el mundo ilimitado de la tecnología</h3>
+<h1 align="center">Hola, soy Sol Gayarin  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h3 align="center">Estudiante apasionada de IT | Explorando el mundo ilimitado de la tecnología</h3>
 <p align="center">
-✨ <b>UX/UI Designer</b>, apasionada por crear experiencias accesibles e intuitivas.  </br>
-🐞 <b>QA Tester </b>,con ojo crítico para detectar errores y mejorar productos.  </br>
-💻 <b>Estudiante de Frontend</b>, aprendiendo cada día nuevas formas de dar vida a mis diseños.  </br>
-🎨 <b>Artista</b>, explorando lo visual más allá de lo digital. </br>
+✨ <b>UX/UI Designer,</b> comprometida a crear experiencias accesibles e intuitivas.  </br>
+🐞 <b>QA Tester,</b> con ojo crítico para detectar errores y mejorar productos.  </br>
+💻 <b>Estudiante de Frontend,</b> aprendiendo cada día nuevas formas de dar vida a mis diseños.  </br>
+🎨 <b>Artista,</b>explorando lo visual más allá de lo digital. </br>
 </p>
 
 
