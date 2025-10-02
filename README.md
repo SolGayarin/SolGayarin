@@ -35,7 +35,7 @@
 <a href="https://www.linkedin.com/in/sol-gayarin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Sol Gayarin" height="30" width="40" /></a>
 <a href="https://www.behance.net/solgayarin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/behance.svg" alt="Behance Sol Gayarin" height="30" width="40" /></a>
 <a href = "mailto: sol.gayarin@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sunxshi_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/instagram.svg" alt="Instagram Sol Gayarin" height="30" width="40" /></a>
+<!--<a href="https://www.instagram.com/sunxshi_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/instagram.svg" alt="Instagram Sol Gayarin" height="30" width="40" /></a>-->
 
 </p>
 
