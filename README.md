@@ -22,6 +22,14 @@
 🎨 <b>Artista</b>, explorando lo visual más allá de lo digital. </br>
 </p>
 
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SolGayarin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SolGayarin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 </br></br>
 
 ![aaaaaaaaa](https://github.com/user-attachments/assets/81997c5a-3883-427b-a0f5-087e1a368e81)
