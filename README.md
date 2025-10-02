@@ -19,7 +19,7 @@
 ✨ <b>UX/UI Designer,</b> comprometida a crear experiencias accesibles e intuitivas.  </br>
 🐞 <b>QA Tester,</b> con ojo crítico para detectar errores y mejorar productos.  </br>
 💻 <b>Estudiante de Frontend,</b> aprendiendo cada día nuevas formas de dar vida a mis diseños.  </br>
-🎨 <b>Artista,</b>explorando lo visual más allá de lo digital. </br>
+🎨 <b>Artista,</b> explorando lo visual más allá de lo digital. </br>
 </p>
 
 
