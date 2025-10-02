@@ -29,8 +29,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SolGayarin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=SolGayarin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+</br>
 
-</br></br>
+<p align="center">
+<a href="https://www.linkedin.com/in/sol-gayarin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Sol Gayarin" height="30" width="40" /></a>
+<a href="https://www.behance.net/solgayarin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/behance.svg" alt="Behance Sol Gayarin" height="30" width="40" /></a>
+<a href = "mailto: sol.gayarin@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sunxshi_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/instagram.svg" alt="Instagram Sol Gayarin" height="30" width="40" /></a>
+
+</p>
+
+</br>
 
 ![aaaaaaaaa](https://github.com/user-attachments/assets/81997c5a-3883-427b-a0f5-087e1a368e81)
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40">
